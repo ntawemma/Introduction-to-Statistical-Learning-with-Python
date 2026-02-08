@@ -1,6 +1,6 @@
-AUCA BIG DATA ANALYTICS
 NTAWUYIRUSHA Emmanuel 
 Student Number: 101287
+AUCA BIG DATA ANALYTICS
 
 # Introduction to Statistical Learning with Python
 
