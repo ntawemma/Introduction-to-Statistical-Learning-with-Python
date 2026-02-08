@@ -1,3 +1,7 @@
+AUCA BIG DATA ANALYTICS
+NTAWUYIRUSHA Emmanuel 
+Student Number: 101287
+
 # Introduction to Statistical Learning with Python
 
 This repository contains Jupyter Notebook implementations and exercises based on the book  
